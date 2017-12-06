@@ -1,0 +1,59 @@
+Linux is free open source computer OS
+  Initially for x86, it has been adapted to many hardware platforms
+  Linux began development in 1991
+  Linux powers a majority of internet servers and is behind android
+  3 families of distributions
+    Debian
+      Ubuntu
+    Fedora
+      CentOS
+    Sues
+      SLES
+
+Linux borrows heavily from UNIX
+  Originally built to be a free version of UNIX
+  File system is hierarchical
+    Top node is root or "/"
+  Linux makes its components available via files or objects that look like files
+    Processes, devices, and network sockets are represented by file-like objects
+    File-like objects can be worked with using the same utilities used for regular files
+  Linux is fully multitasking and multi user
+  Linux has built in networking and service Processes
+    known as daemons in UNIX world
+  Linux has unmatched development and release speed
+    Due to collaborative development
+
+Terms
+  Kernel
+    The glue between hardware and apps
+    The brain of the OS
+  Distributions
+    Collection of software that make up a linux based OS
+  Boot loader
+    The program that boots the OS
+    Grub and Isolinux are examples
+  Service
+    Program that runs in the background
+  File system
+    Method for organizing and storing files
+  X Window system
+    Graphical subsystem that provides the standard tools to build GUIs
+  Desktop Environment
+    GUI that is on top of the OS
+  Command line
+    Interface for typing commands on top of the OS
+  Shell
+    Command line interpreter
+    Interprets inputs and instructs OS to perform any necessary commands and tasks
+
+Distributions
+  Consists of the kernel and other software for file related operations, user management and software package management
+  Each tool is a small part of the complete subsystem
+  Tools are often their own projects
+  Distros can be based on different kernel versions
+    They can incorporate elements on newer kernel releases
+  Other tools can also be provided
+    c++ complier
+    GDB debugger
+
+  
